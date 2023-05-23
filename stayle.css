@@ -1,15 +1,15 @@
 .caua{
-    background-color:rgb(137,172,204);
+    background-color:rgba(4, 66, 9, 0.911);
     text-align: center
 }
 .pato{
-    background-color: rgb(137,172,204);
+    background-color: rgb(4, 66, 9, 0.911);
 }
 .dudama{
     width: 90px;
 }
 footer{
-    background-color: rgb(137, 172, 204);
+    background-color: rgba(4, 66, 9, 0.911);
 }
 h5{
     font-size: 20px;
@@ -22,7 +22,7 @@ h3{
 }
 .gato{
     display: inline-block;
-    background-color:white;
+    background-color:rgb(245, 245, 245);
     margin: 10px;
 }
 .copo{
